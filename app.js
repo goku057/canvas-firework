@@ -74,9 +74,9 @@ class Particles{
 let particles = [];
 const particleCount = 157;
 let angle = (2 * Math.PI) / particleCount;
-const radius = 4;
-const power = 17;
-const gravity = 0.257;
+const radius = 3;
+const power = 27;
+const gravity = 0.057;
 const friction = 0.93;
 let createParticles = ()=>{
 
